@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="welcome.php" method="Post">
+<form action="<?php echo $_SERVER['PHP_SELF']?>" method="Post">
         Name:<input type="text" name="name"><br>
         <br>
         Password:<input type="password" name="password">
@@ -16,13 +14,13 @@
         <input type="submit" name="Submit">
 
     </form>
-    <!-- <?php
-    if($_SERVER['REQUEST_METHOD']=='POST'){
-        echo $_POST['name'];
-    }
-    ?> -->
+   
+    <?php
+   if($_SERVER['REQUEST_METHOD']== 'POST'){
+    echo $_POST['name'];
+    echo $_POST['password'];
+   }
 
-
+    ?>
 </body>
 </html>
-

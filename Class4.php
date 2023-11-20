@@ -11,10 +11,10 @@
     // $color = array("red","blue","green","White","Black","Yellow");
     // print_r($color);
 
-    // $name = array('blue','green','yellow');
-    // echo '<pre>';
-    // print_r($name);
-    // echo '</pre>';
+    $name = array('blue','green','yellow');
+    echo '<pre>';
+    print_r($name);
+    echo '</pre>';
 
 
     // $name = array('blue','green','yellow');
@@ -72,6 +72,36 @@
 
 
 
+// $myarr =array("green","Blue","Red","");
+// sort($myarr);
+// foreach($myarr as $i){
+//     echo $i;
+// }
+
+
+// $myarr =array("green","Blue","Red","");
+// asort($myarr);
+// foreach($myarr as $i){
+//     echo $i;
+// }
+
+
+
+
+// $myarr =array("green","Blue","Red","");
+// Asort($myarr);
+// foreach($myarr as $i){
+//     echo $i;
+// }
+
+
+
+
+// $myarr =array("green","Blue","Red","");
+// asort($myarr);
+// foreach($myarr as $i){
+//     echo $i;
+// }
 
 
 

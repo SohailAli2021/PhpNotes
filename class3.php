@@ -43,7 +43,7 @@
 //     echo "a is False";
 // }
 
-// $a = true;
+// $a = false;
 // $b = true;
 
 // if($a^$b){
@@ -100,6 +100,60 @@
 //                 default:
 //                 echo "no language found with such name";
 // }
+
+
+// $a = 1;
+// while ($a <= 10) {
+//     echo "Pakistan";
+//     echo "<br>";
+//     $a =$a+1;
+// }
+
+
+
+
+// $a = 1;
+// while ($a <= 10) {
+//     echo $a .")Pakistan";
+//     echo "<br>";
+//     $a++;
+// }
+
+
+
+
+
+
+// $a = 10;
+// while ($a >= 1) {
+//     echo $a .")Pakistan";
+//     echo "<br>";
+//     $a--;
+// }
+
+
+
+
+
+
+// $a = 1;
+// echo "<ul>";
+// while ($a <= 10) {
+//     echo "<li>".$a .")Pakistan</li>";
+//     echo "<br>";
+//     $a=$a+2;
+// }
+
+// echo "</ul>";
+
+
+// $a= 9;
+// while($a<=10){
+//     echo "Aptech </br>";
+//     $a++;
+// }
+
+
 
 
 

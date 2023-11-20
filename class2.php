@@ -47,6 +47,60 @@
 // echo $a<=$b
 
 
+// $x = 2;
+// if($x==2)
+//     echo'valid';
+
+// else
+//     echo 'invalid';
+
+
+// $x=15;
+// if($x>=18){
+//     echo 'You Can Vote';
+// }
+// elseif($x>=15){
+//     echo 'You Can vote after three year';
+
+// }
+// else{
+//     echo'invalid';
+// }
+
+
+
+
+
+
+
+
+// $name = "Ali";
+// $gender = "Male";
+
+// if($gender =="Male"){
+//     echo "Hello Mr .".$name;
+// }
+// else{
+//     echo "Hello Miss.".$name;
+// }
+
+    // $per = 70;
+    // if($per >= 80 &&$per<=100){
+    //     echo "You are in Merit.";
+    // }elseif($per >= 60 && $per<80){
+    //     echo "Your are in Ist Division.";
+    // }elseif($per >= 45 && $per<60){
+    //     echo "Your are in IInd Division.";
+    // }elseif($per >= 33 && $per<45){
+    //     echo "Your are in IInd Division.";
+    // }elseif($per < 33){
+    //     echo "Your are Fail.";
+    // }else{
+    //     echo "Please Enter Valid Percentage";
+    // }
+
+
+
 
 
     ?>

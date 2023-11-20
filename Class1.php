@@ -169,6 +169,17 @@
 
 
 
+
+// $x = 2;
+// if($x==2){
+//     echo'valid';
+// }
+// else{
+//     echo 'invalid';
+// }
+
+
+
 // $arr = array("Car1","Car2","Car3");
 // print_r($arr);
 
